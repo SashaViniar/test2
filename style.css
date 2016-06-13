@@ -1,0 +1,8 @@
+.pole {
+    width: 24%;
+    height: 120px;
+    background-color: black;
+    margin: 5px;
+    float: left;
+    text-align: center;
+}
